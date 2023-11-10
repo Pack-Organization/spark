@@ -1,7 +1,7 @@
 import org.cadixdev.gradle.licenser.LicenseExtension
 
 plugins {
-    id 'com.google.protobuf' version '0.9.1'
+    id 'com.google.protobuf' version '0.8.2'
 }
 
 license {
